@@ -86,7 +86,7 @@ To install Terraform on Ubuntu, follow these steps:
   terraform version
   ```
 
----
+
 
 ##### 2. **Set Up Terraform for AWS:**
 
@@ -145,6 +145,8 @@ To install Terraform on Ubuntu, follow these steps:
 
 With these steps, your environment is ready to manage AWS infrastructure using Terraform.
 
+
+---
 
 
 #### **Important Terminologies of Terraform**
