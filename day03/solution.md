@@ -157,11 +157,11 @@ lifecycle {
 
   - what if I set  `prevent_destroy = true` ,this will cause error , you can see in below images
 
-        ![task4.2.1](images/task4.2.1.png)
+    ![task4.2.1](images/task4.2.1.png)
 
-        ![task4.2.2](images/task4.2.2.png)
+    ![task4.2.2](images/task4.2.2.png)
 
-        ![task4.2.3](images/task4.2.3.png)   
+    ![task4.2.3](images/task4.2.3.png)   
 
   
 - **`ignore_changes = [tags]`**: 
