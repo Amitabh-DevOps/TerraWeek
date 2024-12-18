@@ -49,7 +49,7 @@
 
             ![task2.2.1](images/task2.2.1.png)
 
-            ![task2.2.2](images/task2.2..png)
+            ![task2.2.2](images/task2.2.2.png)
 
         3. `terraform apply --auto-approve` : Apply the changes
 
